@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Usama Buttar
+- 👋 Hi, I’m Usama
 - 👀 I’m interested in AI & Blockchain
 - 🌱 I’m currently learning C++
 
